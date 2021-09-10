@@ -1,0 +1,51 @@
+body{font-family: 'Galada', cursive;
+background-color: black;
+color:#239ca7;
+font-size: 20px;}
+
+
+.navbar-color {background-color: #239ca7;
+color: white;}
+
+.nav-link {font-family: 'Lobster Two', cursive;}
+
+.quienes-somos {width: auto;
+height: 300px;
+background-color: black;}
+
+.container-fluid {border-bottom-color:#239ca7 ;
+border-width: 2px;}
+
+
+
+.text-center h5 {color:white;
+padding-top: 80px;}
+
+.card-body {background-color: #239ca7;}
+
+.color-fondo {width: auto;
+height: 500px;
+margin-left: 200px;
+margin-right: 200px;
+padding-top: 500px;
+margin-bottom:100px ;
+background-image:url("assets/img/chilito1.png");}
+
+.turismo {padding-left: 450px;
+padding-top: 50px;}
+
+.bton {padding-left: 480px;
+padding-top: 80px;}
+
+.aling-text {background-color:#239ca7;
+width: auto;
+height: 150px;
+padding-left:200px ;}
+
+.m-b2 {align-items: center;}
+
+.text-white {font-family: 'Ubuntu Condensed', sans-serif;}
+
+
+
+
